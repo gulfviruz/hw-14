@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <header className="navbar">
       <div className="navbar-logo">
-         BEAUTY STORE
+          BEAUTY STORE
       </div>
 
       <nav className="navbar-links">
